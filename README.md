@@ -1,7 +1,7 @@
 # Spotify-Data-Analytics-sql-project
 Sql project - Analysing Spotify data to know the key insights!
 
-<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/5e69320d-0227-4122-ae9f-b5d1b2376393" />
+<img width="1400" height="1050" alt="image" src="https://github.com/user-attachments/assets/f131c596-ed03-4588-9f6e-15b422fd6e49" />
 
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about artists, tracks, and albums using SQL. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced). The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
@@ -399,3 +399,28 @@ select * from percentage_cal;
 **Tools:** pg Admin 4
 
 ## Topics covered
+- CREATE cmd
+- SELECT
+- DISTINCT
+- FROM
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- LIMIT / OFFSET
+- NULL / NULLIF
+- COALESCE
+- OPERATORS:
+- AND, OR, BETWEEN, IN ETC..
+- RELATIONSHIPS: JOINS
+- INNER JOIN
+- LEFT JOIN
+- AGGREGATE FUNCTIONS
+- SUM(), COUNT(), AVG(), MAX(), MIN() ETC..
+- WINDOW FUNCTIONS:
+- DENSE_RANK(), ROW_NUMBER(), RANK(), OVER(), PARTITION BY
+- NUMERIC FUNCTIONS:
+- ROUND()
+- SUBQUERY
+- CTE's:
+- WITH()
